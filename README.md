@@ -18,7 +18,7 @@
 *(Los links se activarán a medida que los repositorios sean creados)*
 
 ### 💾 Low Level & Systems
-- **[c-memory-and-data-structures](#)**: Implementación de estructuras de datos genéricas con gestión manual de memoria y análisis de leaks.
+- **[c-memory-and-data-structures](https://github.com/PabloQuiroga/c-memory-and-data-structures)**: Implementación de estructuras de datos genéricas con gestión manual de memoria y análisis de leaks.
 - **[cpp-modern-library](#)**: Librería de eventos asíncronos utilizando smart pointers, templates y estándares de C++ moderno.
 
 ### ☕ JVM & Backend
