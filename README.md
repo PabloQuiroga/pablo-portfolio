@@ -29,7 +29,7 @@
 - **[android-architecture-lab](#)**: Aplicación de finanzas personales modularizada con Jetpack Compose y MVVM.
 
 ### 🎓 Engineering Mastery
-- **[engineering-practices-lab](#)**: Demostración práctica de Git avanzado, Specification-Driven Development (SDD) y pipelines de CI/CD.
+- **[engineering-practices-lab](https://github.com/PabloQuiroga/engineering-practices-lab)**: Demostración práctica de Git avanzado, Specification-Driven Development (SDD) y pipelines de CI/CD.
 
 ## 🏛 Engineering Pillars
 
