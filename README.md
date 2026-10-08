@@ -19,7 +19,7 @@
 
 ### 💾 Low Level & Systems
 - **[c-memory-and-data-structures](https://github.com/PabloQuiroga/c-memory-and-data-structures)**: Implementación de estructuras de datos genéricas con gestión manual de memoria y análisis de leaks.
-- **[cpp-modern-library](#)**: Librería de eventos asíncronos utilizando smart pointers, templates y estándares de C++ moderno.
+- **[cpp-modern-library](https://github.com/PabloQuiroga/cpp-modern-library)**: Librería de eventos asíncronos utilizando smart pointers, templates y estándares de C++ moderno.
 
 ### ☕ JVM & Backend
 - **[java-concurrency-lab](#)**: Simulador de procesamiento de datos en tiempo real enfocado en concurrencia y sincronización.
