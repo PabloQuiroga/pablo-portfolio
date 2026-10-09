@@ -22,7 +22,7 @@
 - **[cpp-modern-library](https://github.com/PabloQuiroga/cpp-modern-library)**: Librería de eventos asíncronos utilizando smart pointers, templates y estándares de C++ moderno.
 
 ### ☕ JVM & Backend
-- **[java-concurrency-lab](#)**: Simulador de procesamiento de datos en tiempo real enfocado en concurrencia y sincronización.
+- **[java-concurrency-lab](https://github.com/PabloQuiroga/java-concurrency-lab.git)**: Simulador de procesamiento de datos en tiempo real enfocado en concurrencia y sincronización.
 - **[kotlin-clean-architecture](#)**: Motor de sincronización de tareas aplicando capas estrictas de dominio y datos.
 
 ### 📱 Mobile Development
