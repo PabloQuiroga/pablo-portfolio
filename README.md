@@ -23,7 +23,7 @@
 
 ### ☕ JVM & Backend
 - **[java-concurrency-lab](https://github.com/PabloQuiroga/java-concurrency-lab.git)**: Simulador de procesamiento de datos en tiempo real enfocado en concurrencia y sincronización.
-- **[kotlin-clean-architecture](#)**: Motor de sincronización de tareas aplicando capas estrictas de dominio y datos.
+- **[kotlin-clean-architecture](https://github.com/PabloQuiroga/kotlin-clean-architecture.git)**: Motor de sincronización de tareas aplicando capas estrictas de dominio y datos.
 
 ### 📱 Mobile Development
 - **[android-architecture-lab](#)**: Aplicación de finanzas personales modularizada con Jetpack Compose y MVVM.
