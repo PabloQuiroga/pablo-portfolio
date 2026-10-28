@@ -15,7 +15,9 @@
 
 ## 📂 Project Directory
 
-*(Los links se activarán a medida que los repositorios sean creados)*
+Los proyectos de este portfolio están organizados por área técnica y lenguaje. Cada repositorio tiene un objetivo específico y permite explorar distintas prácticas de desarrollo, diseño, testing y calidad de software.
+
+El alcance y el grado de implementación varían según el proyecto. Los README individuales describen sus funcionalidades, tecnologías, documentación y procedimientos de ejecución.
 
 ### 💾 Low Level & Systems
 - **[c-memory-and-data-structures](https://github.com/PabloQuiroga/c-memory-and-data-structures)**: Implementación de estructuras de datos genéricas con gestión manual de memoria y análisis de leaks.
